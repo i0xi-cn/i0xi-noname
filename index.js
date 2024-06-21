@@ -215,9 +215,9 @@ try {
 		return res.json(failedJson(400, String(err)));
 	});
 
-	app.listen(8089, () => {
-		console.log("应用正在使用 8089 端口以提供无名杀本地服务器功能!");
-		if (!process.argv[2]) require('child_process').exec('start http://localhost:8089/');
+	app.listen(8012, () => {
+		console.log("应用正在使用 8012 端口以提供无名杀本地服务器功能!");
+		if (!process.argv[2]) require('child_process').exec('start http://localhost:8012/');
 	});
 
 	class ReturnData {

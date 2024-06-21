@@ -13,7 +13,7 @@ const SANDBOX_DEV = false;
 
 const WSURL_FOR_IP = /ws:\/\/(\d+.\d+.\d+.\d+):\d+\//;
 const TRUSTED_IPS = Object.freeze([
-	"47.99.105.222",
+	"pan.i0xi.cn:8011",
 ]);
 
 // 声明导入类

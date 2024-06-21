@@ -33,7 +33,7 @@ export class Library {
 	updateURLS = updateURLs;
 	updateURL = updateURLs.github;
 	mirrorURL = updateURLs.coding;
-	hallURL = "47.99.105.222";
+	hallURL = "pan.i0xi.cn:8011";
 	assetURL = assetURL;
 	userAgent = userAgent;
 	characterDefaultPicturePath = characterDefaultPicturePath;

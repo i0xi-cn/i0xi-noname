@@ -69,6 +69,7 @@ window.config = {
 	customBackgroundPack: [],
 	favouriteCharacter: [],
 	favouriteMode: [],
+	last_ip: "pan.i0xi.cn:8011",
 	recentIP: ["pan.i0xi.cn:8011"],
 	vintageSkills: [],
 	alteredSkills: [],
